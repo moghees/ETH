@@ -1,2 +1,2 @@
 # ETH
-Ethereum (ETH) Price Prediction
+Ethereum (ETH) Daily Closing Price % Change Prediction
