@@ -1,5 +1,5 @@
 # ETH
-1) Ethereum (ETH) Daily Closing Price % Change forecasting experiment using the time-series autoregressive integrated moving average model. 
-2) Ethereum (ETH) Daily Closing Price prediction using a linear regression model.
+1) Ethereum (ETH) Daily Closing Price % Change forecasting experiment using time-series autoregressive integrated moving average. 
+2) Ethereum (ETH) Daily Closing Price prediction using linear regression.
 
-Implementation using Google BigQuery ML.
+Implemented using Google BigQuery ML.
